@@ -1,0 +1,28 @@
+{
+  "name": "node-kafka-appointment",
+  "version": "1.0.0",
+  "description": "Kafka-based demo appointment system",
+  "main": "index.js",
+  "scripts": {
+    "producer": "node src/producer/index.js",
+    "consumer": "node src/consumer/index.js",
+    "dev:producer": "nodemon src/producer/index.js",
+    "dev:consumer": "nodemon src/consumer/index.js"
+  },
+  "keywords": [
+    "kafka",
+    "nodejs",
+    "appointment",
+    "producer",
+    "consumer"
+  ],
+  "author": "Franco Gutierrez - SUGI FKMS LTD",
+  "license": "ISC",
+  "dependencies": {
+    "kafkajs": "^2.2.4",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
