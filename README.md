@@ -329,6 +329,8 @@ Improvement for production deployments:
 
 MIT
 
+## https://developer.confluent.io/get-started/javascript/#consume-events
+
 ## Contributing
 
 Feel free to submit issues and enhancement requests.
