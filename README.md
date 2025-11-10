@@ -1,6 +1,6 @@
 # Node.js Kafka Appointment System by Franco
 
-![Demo Sample](./assets/demo.png)
+![Demo Sample](./assets/demo1.png)
 
 ![Demo Sample](./assets/demo2.png)
 
